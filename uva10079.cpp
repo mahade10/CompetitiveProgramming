@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-    long long int n,i,j,r;
+    long  int n,r;
 
     while(1){
         cin>>n;
